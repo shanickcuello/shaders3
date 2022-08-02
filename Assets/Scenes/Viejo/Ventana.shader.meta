@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 6ee49143316d90c4baed8cdb7dfb6aaf
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _normalventana: {fileID: 2800000, guid: 16ce86f872faa6b41b34b4f2be1e0526, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

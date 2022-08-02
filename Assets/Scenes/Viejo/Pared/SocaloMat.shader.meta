@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7eb236ff3015ed441b54eff47a41aaa4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _NormalScratch: {fileID: 2800000, guid: a51cd0d1ebac31c4398e9175f487b6b0, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

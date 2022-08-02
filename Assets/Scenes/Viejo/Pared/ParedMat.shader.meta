@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 306bea9da90f2814a845a6a86e028a9a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _NormalBricks: {fileID: 2800000, guid: f353fb7ea65f81d4cb97922968c4bba1, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

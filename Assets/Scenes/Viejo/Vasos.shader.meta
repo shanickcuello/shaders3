@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4b69d0030bd66404f856662d9f5db3c0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _normalvaso: {fileID: 2800000, guid: 109e696e1fa6cd946bede50f87264f2a, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
