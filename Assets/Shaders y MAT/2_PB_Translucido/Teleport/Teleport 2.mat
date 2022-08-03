@@ -105,5 +105,5 @@ Material:
     - _BaseColor: {r: 1.8797153, g: 0.8285024, b: 0.33460897, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _addcoloralbedo: {r: 1, g: 0, b: 0.9342737, a: 0}
+    - _addcoloralbedo: {r: 1, g: 1, b: 1, a: 0}
     - _coloraddalbedo: {r: 1, g: 1, b: 1, a: 0}
